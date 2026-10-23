@@ -1,0 +1,10 @@
+{
+  "name": "music-app",
+  "version": "1.0.0",
+  "description": "Music app backend",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {}
+}
